@@ -1,6 +1,6 @@
 music = {
     "pink lips" : "https://www.youtube.com/watch?v=w5VFOKKAbQQ&list=RDw5VFOKKAbQQ&start_radio=1",
-    "sta rboy": "https://www.youtube.com/watch?v=xS3iRX7_Cxw&list=RDxS3iRX7_Cxw&start_radio=1",
+    "star boy": "https://www.youtube.com/watch?v=xS3iRX7_Cxw&list=RDxS3iRX7_Cxw&start_radio=1",
     "danza kuduro": "https://www.youtube.com/watch?v=XUIXIfm4wQY&list=PLvrbYkA_ZvPsU2ZAp-6nNro3DcWS-2gzp",
     "skyfall": "https://www.youtube.com/watch?v=DeumyOzKqgI&pp=ygUHc2t5ZmFsbA%3D%3D",
     "espresso": "https://www.youtube.com/watch?v=pSrtKDf5MTs&list=RDpSrtKDf5MTs&start_radio=1",
